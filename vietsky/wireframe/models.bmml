@@ -1,0 +1,9 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="808" measuredH="444" mockupW="340" mockupH="310">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::SiteMap" x="468" y="134" w="-1" h="-1" measuredW="340" measuredH="310" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Models%0A-Lists%0A--Group%0A-Subscribers%0A-Campaigns</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
